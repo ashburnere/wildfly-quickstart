@@ -1,4 +1,4 @@
-package de.ashburnere;
+package de.ashburnere.quickstart.hello;
 
 import java.io.IOException;
 import java.io.PrintWriter;
